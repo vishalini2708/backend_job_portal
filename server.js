@@ -23,9 +23,13 @@ dotenv.config(); // fallback local
 const app = express();
 const PORT = process.env.PORT || 5000;
 
-// Enable CORS with support for frontend dev servers
+// Enable CORS with support for frontend dev servers and deployed Vercel frontend
 app.use(cors({
-  origin: ['http://localhost:5173', 'http://127.0.0.1:5173'],
+  origin: [
+    'http://localhost:5173',
+    'http://127.0.0.1:5173',
+    'https://job-poratal-4wlf.vercel.app'
+  ],
   credentials: true
 }));
 
