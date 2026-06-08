@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "user_1780027710322",
+    "resume": "",
+    "appliedJobs": [
+      "job_03"
+    ],
+    "savedJobs": [],
+    "name": "vishalini .v",
+    "email": "vishaliniv2730@gmail.com",
+    "password": "$2a$10$knxxkJYtWsbwaON.t6rFmO/o7Yia99R9NjmVtShG277.XEVqv4Ga.",
+    "role": "seeker",
+    "createdAt": "2026-05-29T04:08:30.322Z",
+    "updatedAt": "2026-05-29T04:08:30.322Z"
+  },
+  {
+    "_id": "user_1780028084017",
+    "resume": "",
+    "appliedJobs": [],
+    "savedJobs": [],
+    "name": "vish2",
+    "email": "itsmevishaliniv2730@gmail.com",
+    "password": "$2a$10$G8HKDR4BYr83jxB5J7jRD.CvpYzpU3VXBK4eWxFBIUY5Ens9H142q",
+    "role": "recruiter",
+    "createdAt": "2026-05-29T04:14:44.017Z",
+    "updatedAt": "2026-05-29T04:14:44.017Z"
+  }
+]

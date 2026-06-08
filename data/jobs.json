@@ -1,0 +1,80 @@
+[
+  {
+    "_id": "job_01",
+    "title": "Senior React Engineer",
+    "company": "Vercel",
+    "companyLogo": "⚡",
+    "location": "Remote (Global)",
+    "salary": "$120,000 - $150,000",
+    "experience": "3+ Years",
+    "jobType": "Remote",
+    "category": "Frontend",
+    "description": "We are looking for a Senior React Engineer to join our core framework team. You will help build the future of next-generation web applications, collaborating closely with creators of Next.js.",
+    "requirements": "Deep understanding of React, Next.js, and modern browser APIs. Experience optimizing performance in heavy client-side applications.",
+    "responsibilities": "Architect clean frontend components. Collaborate with UX designers and product managers. Improve build pipelines and core web vitals.",
+    "createdAt": "2026-05-27T03:58:51.086Z"
+  },
+  {
+    "_id": "job_02",
+    "title": "Staff Node.js Architect",
+    "company": "Stripe",
+    "companyLogo": "💳",
+    "location": "Chennai, India",
+    "salary": "₹24,00,000 - ₹32,00,000",
+    "experience": "5+ Years",
+    "jobType": "Hybrid",
+    "category": "Backend",
+    "description": "Join Stripe's core infrastructure team to build robust payment APIs handling billions of requests daily. You will define technical standards and guide engineering practices.",
+    "requirements": "Expertise in Node.js, Express, PostgreSQL, Redis, and microservices architecture. Strong cryptography and API security practices.",
+    "responsibilities": "Design secure APIs, mentor junior developers, perform code reviews, and guarantee 99.999% uptime of our high-volume services.",
+    "createdAt": "2026-05-24T03:58:51.088Z"
+  },
+  {
+    "_id": "job_03",
+    "title": "Full-Stack Engineer",
+    "company": "Airbnb",
+    "companyLogo": "🏡",
+    "location": "Bangalore, India",
+    "salary": "₹18,00,000 - ₹25,00,000",
+    "experience": "2+ Years",
+    "jobType": "Onsite",
+    "category": "Full Stack",
+    "description": "Airbnb is looking for a versatile Full-Stack Engineer who is passionate about creating high-quality booking experiences. You will design, build, and deploy customer-facing interfaces and scalable backend systems.",
+    "requirements": "Proficiency in JavaScript/TypeScript, React, Node.js, and MongoDB. Strong communication skills.",
+    "responsibilities": "Implement pixel-perfect designs, optimize backend query times, and coordinate with the global design system team.",
+    "createdAt": "2026-05-28T03:58:51.088Z",
+    "applicants": [
+      "app_1780028330006"
+    ]
+  },
+  {
+    "_id": "job_04",
+    "title": "Lead UI/UX Architect",
+    "company": "Linear",
+    "companyLogo": "📐",
+    "location": "Remote (Asia)",
+    "salary": "$90,000 - $115,000",
+    "experience": "4+ Years",
+    "jobType": "Remote",
+    "category": "Design",
+    "description": "Linear builds high-quality software trackers. We are looking for a UI/UX expert who writes code (CSS/React) and brings pristine attention to detail to design flawless developer tools.",
+    "requirements": "Strong visual design skills, expert Tailwind CSS, Framer Motion, and Figma mockup design capabilities.",
+    "responsibilities": "Collaborate closely with founders, build reusable dynamic UI components, and maintain our premium dark-mode web experience.",
+    "createdAt": "2026-05-21T03:58:51.088Z"
+  },
+  {
+    "_id": "job_05",
+    "title": "Backend Platform Engineer",
+    "company": "Supabase",
+    "companyLogo": "⚡",
+    "location": "Remote (Global)",
+    "salary": "$100,000 - $130,000",
+    "experience": "3+ Years",
+    "jobType": "Remote",
+    "category": "Backend",
+    "description": "Supabase is an open source Firebase alternative. We are seeking a senior systems engineer to work on PostgreSQL integration, real-time database listener systems, and Auth microservices.",
+    "requirements": "Strong Node.js, Go or Elixir background. Advanced SQL knowledge and PostgreSQL performance tuning capabilities.",
+    "responsibilities": "Develop open-source backend libraries, improve connection pool limits, and design highly available cloud infrastructure.",
+    "createdAt": "2026-05-26T03:58:51.088Z"
+  }
+]
