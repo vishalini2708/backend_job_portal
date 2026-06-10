@@ -103,7 +103,7 @@ export const getUserApplications = async (req, res) => {
     const allJobs = await Job.find();
 
     const enrichedApps = apps.map(app => {
-      const jobDetails = allJobs.find(j => j._id === app.jobId) || {
+      const jobDetails = allJobs.find(j => j._id.toString() === app.jobId.toString()) || {
         title: 'Unknown Title',
         company: 'Unknown Company',
         location: 'Unknown Location',
